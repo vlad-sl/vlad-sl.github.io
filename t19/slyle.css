@@ -1,0 +1,16 @@
+.f1,.f2{
+text-decoration:none;
+color:rgb(63, 1, 9);	
+}	
+header{
+	background:linear-gradient(to right,white,whitesmoke,blue);
+	padding:20;
+}
+.f1:hover,.f2:hover{
+text-decoration:none;
+color:rgb(253, 2, 0);	
+box-shadow:0px 0px 5px red;
+padding:12px;
+border-radius:20px;
+}
+
